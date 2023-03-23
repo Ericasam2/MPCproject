@@ -4,7 +4,7 @@ For the MPC project, we will work on the control of the Keen Model[1]. Keen Mode
 essential macroeconomic model – – based on Goodwin Model[2], it introduces the bank
 investment and debt rate. The dynamic model of the Keen Model is given below:
  
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/Ericasam2/MPCproject/blob/main/img/MPC%20project%20topic%20selection.jpg "Logo Title Text 1")
 
 * omega is the wage share
 * $\lambda$ is the employment rate
