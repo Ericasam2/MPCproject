@@ -6,7 +6,7 @@ investment and debt rate. The dynamic model of the Keen Model is given below:
  
 ![alt text](https://github.com/Ericasam2/MPCproject/blob/main/img/MPC%20project%20topic%20selection.jpg "Logo Title Text 1")
 
-* omega is the wage share
+* $\omega$ is the wage share
 * $\lambda$ is the employment rate
 * d is the debt rate
 * k(.) is a function of the rate of new investment (user defined)
